@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="QuickTodo.MyPage">
+	<ContentPage.Content>
+		<StackLayout Orientation="Vertical">
+			<Label Text="truc"></Label>
+			<BoxView Color="Aqua" WidthRequest="15" HeightRequest="15"></BoxView>
+			<Label Text="truc"></Label>
+			<Label Text="truc2"></Label>
+			<Label Text="truc3"></Label>
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

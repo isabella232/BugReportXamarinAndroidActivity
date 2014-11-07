@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (KitKat)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormsBasics.Android\MyThirdActivity.cs">
+    <Files>
+      <File FileName="FormsBasics.Android\MyThirdPageRenderer.cs" Line="1" Column="1" />
+      <File FileName="FormsBasics\MyThirdPage.cs" Line="1" Column="1" />
+      <File FileName="FormsBasics\MySecondPage.cs" Line="1" Column="1" />
+      <File FileName="FormsBasics\MyFirstPage.cs" Line="1" Column="1" />
+      <File FileName="FormsBasics.Android\MyThirdActivity.cs" Line="53" Column="53" />
+      <File FileName="FormsBasics.Android\MySecondPageRenderer.cs" Line="1" Column="1" />
+      <File FileName="FormsBasics\MyTest.xaml" Line="1" Column="1" />
+      <File FileName="c:\Users\yann.robin\Documents\GitHub\xamarin-forms-samples\Forms2Native\FormsBasics\obj\Debug\MyTest.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="FormsBasics\MyTest.xaml.cs" Line="1" Column="1" />
+      <File FileName="FormsBasics\MyPage.xaml" Line="1" Column="1" />
+      <File FileName="FormsBasics\MyPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="FormsBasics.Android\MainActivity.cs" Line="47" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
